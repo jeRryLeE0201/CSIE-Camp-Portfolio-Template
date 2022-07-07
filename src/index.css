@@ -14,7 +14,7 @@ body,
 }
 
 #app {
-    @apply fixed top-0 left-0 bg-sky-500;
+    @apply fixed top-0 left-0 bg-sky-100;
 }
 
 @font-face {
